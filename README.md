@@ -1,172 +1,211 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/112753100?v=4" width="120" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Muhammad Faizan Yousaf</h1>
+<h1 align="center">Umer Abdullah Shah</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer &nbsp;•&nbsp; CS Student @ FAST-NUCES &nbsp;•&nbsp; AI & RAG Systems</b>
-</p>
-
-<p align="center">
-  📍 Pakistan &nbsp;
+  <b>Full-Stack Developer &nbsp;•&nbsp; AI Automation Engineer &nbsp;•&nbsp; MERN Stack Developer</b>
 </p>
 
 <p align="center">
-  <a href="https://faizanyousafs-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/faizan-yousaf1/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Faizanyousaf140">GitHub</a> &nbsp;|&nbsp;
-  <a href="mailto:faizanyousaf140@gmail.com">Email</a>
+  📍 Pakistan
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umer-abdullah-shah">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:umerabdullah1818@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-CS student at FAST-NUCES with hands-on experience in full-stack web development and AI-integrated systems.
-Built RAG pipelines, NLP summarization tools, and vector search systems during internships and academic projects.
-Currently focused on combining modern web stacks with practical AI to ship applications that are actually useful.
+Passionate Full-Stack Developer and AI Automation Engineer with hands-on internship experience across Pakistan and Canada.
+
+Experienced in building scalable MERN stack applications, AI-powered automation systems, conversational AI workflows, and CRM integrations using tools like N8N, Vapi, OpenAI APIs, and GoHighLevel CRM.
+
+Focused on creating real-world solutions that improve business efficiency, automate workflows, and enhance user experiences.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**BS Computer Science** — FAST-NUCES *(Aug 2022 – Jun 2026)*
-Relevant Courses: AI · NLP · Web Programming · Database Systems · OOP · Data Structures & Algorithms
+### **BS Computer Science** — FAST – National University of Computer & Emerging Sciences  
+📅 *2022 – 2026*
+
+Relevant Coursework:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Systems
+- Web Engineering
+- Artificial Intelligence
+- Software Engineering
 
 ---
 
 ## 💼 Experience
 
-**Intern — Digital Genei** *(Jun 2025 – Jul 2025 | Onsite)*
-- Built a speech-to-text pipeline using **Whisper** for meeting transcription with NLP-based summarization
-- Implemented **semantic search with FAISS** for vector indexing and similarity-based retrieval
+### **AI Developer Intern — DBtronics.org** *(Canada — Remote)*  
+📅 *Jan 2026 – Present*
 
-**Intern — Skillify Zone** *(Jul 2025 – Aug 2025 | Remote)*
-- Built a **loan approval prediction system** using Pandas and Scikit-learn with full feature engineering pipeline
-- Performed EDA, data cleaning, and model evaluation to improve prediction accuracy
+- Built AI automation pipelines using **N8N**, **Vapi**, and **GoHighLevel CRM**
+- Reduced manual call-handling overhead by **80%+**
+- Developed **3+ chatbot workflows** for automated customer support
+- Managed and optimized a WordPress business website with SEO improvements
+- Increased organic traffic by approximately **40%**
 
 ---
 
-## 🛠 Tech Stack
+### **Web Developer Intern — Reownlogics** *(Pakistan)*  
+📅 *2025*
 
-**Languages**
+- Developed responsive UI components using **React.js** and **Tailwind CSS**
+- Improved page load speed by **20%**
+- Enhanced cross-device responsiveness across client projects
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+### **Frontend Web Developer Intern — US Group** *(Pakistan)*  
+📅 *2024*
+
+- Built React.js UI modules under agile development sprints
+- Delivered frontend components across multiple client projects
+- Maintained zero post-launch UI defects
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend**
+---
+
+## 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend**
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+## ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Databases**
+---
+
+## 🗄 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI / ML**
+---
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+## 🤖 AI & Automation
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge)
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-005571?style=for-the-badge)
 
-**Tools**
+---
+
+## 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 📱 HealthMate — Final Year Project
-**Stack:** `React Native` `Flask` `MySQL` `Expo`
+## 🩺 AegisCare — Intelligent Multi-Agent Elderly Care Framework
 
-- Built a Android mobile health app for submitting lifestyle data, health metrics, and genetic SNP questionnaire responses
-- Implemented secure auth, **Secure Data Storage**, and wearable device integration via MySQL
-  
----
-### 🧠 AI Knowledge OS — AI-Powered Knowledge & Project Management Platform
-**Stack:** `Next.js` `React` `Node.js` `Express.js` `MongoDB` `RAG` `Vector Embeddings` `JWT`
+**Tech Stack:** `MERN Stack` `Multi-Agent Systems` `REST APIs`
 
-- Built a full-stack platform for managing project notes and documentation with **semantic search using RAG and vector embeddings**
-- Implemented JWT-based auth and an AI chat interface that retrieves and summarizes relevant project context in real time
+- Developed a multi-agent healthcare monitoring platform
+- Implemented real-time patient vital tracking with sub-second alerts
+- Built analytics dashboards and secure REST APIs
+- Reduced manual monitoring effort by **60%**
 
 ---
 
-### 🏥 RAG for Clinical Diagnostic Reasoning
-**Stack:** `Python` `NLP` `Prompt Engineering` `Vector Database` `Streamlit` `LLMs`
+## 📚 Learning Management System (LMS)
 
-- Built a **RAG-based clinical Q&A system** on the MIMIC-IV healthcare dataset with an LLM backend and Streamlit interface
-- Designed a context-aware medical assistant using **vector embeddings and semantic similarity search** to generate accurate, grounded responses
+**Tech Stack:** `React.js` `Redux` `Node.js` `PostgreSQL` `JWT`
 
----
-
-### 🎙️ VerbatimAI — AI Meeting Intelligence System
-**Stack:** `Python` `Whisper` `NLP` `Streamlit` `Vector Embeddings` `FAISS`
-
-- Built a meeting analysis system using **Whisper speech-to-text** and NLP-based summarization to convert recordings into structured insights
-- Designed a Streamlit interface for **semantic search over meeting transcripts** using embedding-based similarity retrieval
+- Built a complete LMS with student, professor, and admin dashboards
+- Added role-based authentication and dynamic course management
+- Implemented real-time grading analytics and JWT security
 
 ---
 
-### 🏦 [Loan Approval Predictor](https://github.com/Faizanyousaf140/Loan-Approval-Predictor-App)
-**Stack:** `Python` `Pandas` `Scikit-learn` `Streamlit` `Jupyter`
+## 🏢 Glide Chemicals — Company Website
 
-- End-to-end ML pipeline from EDA and feature engineering to model deployment via Streamlit
-- Compared multiple classifiers (Random Forest, Gradient Boosting, Logistic Regression); achieved **80–85% accuracy**
+**Tech Stack:** `React.js` `Tailwind CSS` `Node.js` `Express.js`
+
+- Developed a fully responsive corporate business website
+- Optimized APIs for sub-200ms response times
+- Ensured consistent rendering across major browsers
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 DBtronics.org — Company Website
+
+**Tech Stack:** `WordPress` `SEO` `CMS`
+
+- Built and maintained the company website using WordPress
+- Applied SEO optimization techniques
+- Reduced average page load time by **30%**
+
+---
+
+## ☎️ AI Inbound Receptionist Automation System
+
+**Tech Stack:** `Vapi` `N8N` `GoHighLevel CRM` `Voice AI`
+
+- Developed a Voice AI receptionist automation workflow
+- Automated appointment scheduling and CRM synchronization
+- Reduced manual inbound call handling by **85%+**
+
+---
+
+# 🏆 Leadership & Activities
+
+### **President — Sports Guild Society (FAST NUCES)**  
+📅 *2025 – 2026*
+
+- Led 20+ volunteers to organize university-wide sports events
+- Increased inter-departmental participation by **40%**
+- Managed event planning, coordination, and execution
+
+---
+
+# 📬 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanyousaf140&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizanyousaf140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
-
----
-
-## 🏅 Certifications
-
-**Coursera — Machine Learning Specialization** *(Andrew Ng / DeepLearning.AI)*
-Supervised Learning · Unsupervised Learning · Advanced Learning Algorithms
-
----
-
-## 📬 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faizan-yousaf1/">
+  <a href="https://www.linkedin.com/in/umer-abdullah-shah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Faizanyousaf140">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:faizanyousaf140@gmail.com">
+
+  <a href="mailto:umerabdullah1818@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://faizanyousafs-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
