@@ -14,14 +14,65 @@
 
 ## 🚀 About Me
 
-```yaml
-name         : Umer Abdullah Shah
-title        : AI Automation Engineer | Full-Stack MERN Developer | GHL CRM Specialist
-location     : Pakistan  (Open to Remote — US · UK · Canada · Australia)
-education    : BS Computer Science @ FAST-NUCES (2022–2026)
-core skills  : AI Agents · LLM Automation · CRM Engineering · MERN Stack
-availability : Immediately available for remote opportunities
-```
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1B6EC2&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Umer+👋;AI+Automation+Engineer;Full-Stack+MERN+Developer;GoHighLevel+CRM+Specialist;Open+to+Remote+Opportunities+🌍" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧑‍💻 Who I Am
+**Umer Abdullah Shah**
+AI Automation Engineer · Full-Stack MERN Developer
+GoHighLevel CRM Specialist
+
+📍 Pakistan
+
+</td>
+<td align="center" width="50%">
+
+### 🟢 Availability
+**Immediately Available**
+for Remote Opportunities
+
+🇺🇸 US &nbsp;·&nbsp; 🇬🇧 UK &nbsp;·&nbsp; 🇨🇦 Canada &nbsp;·&nbsp; 🇦🇺 Australia &nbsp;·&nbsp; 🇵🇰 Pakistan
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🎓 Education
+BS Computer Science
+**FAST–NUCES** *(2022–2026)*
+
+</td>
+<td align="center">
+
+### ⚡ Core Skills
+`AI Agents` &nbsp; `LLM Automation`
+`CRM Engineering` &nbsp; `MERN Stack`
+`Agentic Workflows` &nbsp; `Voice AI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![Expertise](https://img.shields.io/badge/🤖_AI_Automation-Expert-1A3A5C?style=for-the-badge)
+![MERN](https://img.shields.io/badge/💻_MERN_Stack-Proficient-1B6EC2?style=for-the-badge)
+![CRM](https://img.shields.io/badge/🔧_GHL_CRM-Specialist-111827?style=for-the-badge)
+![Remote](https://img.shields.io/badge/🌍_Remote-Available_Now-2ea043?style=for-the-badge)
+
+</div>
+
+<br/>
 
 Results-driven **AI Automation Engineer** and **Full-Stack MERN Developer** with production experience delivering intelligent automation systems and scalable web applications for clients across **Pakistan and Canada (remote)**.
 
